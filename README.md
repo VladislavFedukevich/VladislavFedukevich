@@ -25,6 +25,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vladislavfedukevich&show_icons=true&locale=en&layout=compact" alt="vladislavfedukevich" /></p>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <h3 align="left">My own Stats</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vladislavfedukevich&show_icons=true&locale=en" alt="vladislavfedukevich" /></p>
