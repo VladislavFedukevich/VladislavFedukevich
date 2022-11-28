@@ -37,6 +37,6 @@
 
 <h3 align="left">My own Stats</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vladislavfedukevich&show_icons=true&locale=en" alt="vladislavfedukevich" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vladislavfedukevich&show_icons=true&locale=en" alt="vladislavfedukevich" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vladislavfedukevich&" alt="vladislavfedukevich" /></p>
