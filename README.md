@@ -25,7 +25,7 @@
 
 <br>
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vladislavfedukevich&show_icons=true&locale=en&layout=compact" alt="vladislavfedukevich" /></p>
 
 <br>
 <br>
