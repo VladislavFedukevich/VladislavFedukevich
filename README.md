@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vladislavfedukevich&label=Profile%20views&color=0e75b6&style=flat" alt="vladislavfedukevich" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=VladiaslavFedukevich&theme=radical)](https://github.com/VladiaslavFedukevich/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=VladiaslavFedukevich&theme=radical)]
 
 - 🔭 I’m currently working on **ChatReact, MarvelWebReact**
 
