@@ -25,6 +25,6 @@
 
 <h3 align="left">My own Stats</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vladislavfedukevich&show_icons=true&locale=en" alt="vladislavfedukevich" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VladislavFedukevich&show_icons=true&theme=radical)
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=VladislavFedukevich&theme=radical)](https://git.io/streak-stats)
