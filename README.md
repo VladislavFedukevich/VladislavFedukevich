@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vladislavfedukevich&show_icons=true&locale=en" alt="vladislavfedukevich" /></p>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VladislavFedukevich)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VladislavFedukevich&theme=radical)](https://git.io/streak-stats)
