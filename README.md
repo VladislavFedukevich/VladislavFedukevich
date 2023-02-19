@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vladislavfedukevich&label=Profile%20views&color=0e75b6&style=flat" alt="vladislavfedukevich" /> </p>
 
-- 🔭 I’m currently working on **ChatReact, MarvelWebReact**
-
-- 🌱 I’m currently learning **ReactJS, ReactNative, TypeScript, NodeJS**
+- 🌱 I’m currently learning **ReactJS, JavaScript/TypeScript, NodeJS**
 
 - 📫 How to reach me **fedukevicvlad@gmail.com**
 
