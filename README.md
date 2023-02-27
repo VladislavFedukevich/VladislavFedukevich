@@ -17,5 +17,5 @@
 <h3 align="left">My own Stats</h3>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VladislavFedukevich&show_icons=true&theme=onedark)
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=VladislavFedukevich&theme=onedark)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VladislavFedukevich&theme=onedark)](https://git.io/streak-stats)
